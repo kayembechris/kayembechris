@@ -2,6 +2,7 @@
 
 
 <p align="center">
+  <a href="#">SysOps</a> •
   <a href="#">DevOps</a> •
   <a href="#">Developer</a> •
 </p>
