@@ -51,7 +51,6 @@ I also develop mobile and backend solutions, especially with **Flutter**, **Pyth
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kayembechris&show_icons=true&theme=github_dark" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayembechris&layout=compact&theme=github_dark" alt="Top Langs" />
 </p>
 
 ---
